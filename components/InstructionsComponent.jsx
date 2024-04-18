@@ -9,7 +9,7 @@ export default function InstructionsComponent() {
 					create<span>-web3-dapp</span>
 				</h1>
 				<p>
-					Get started by editing this page in{" "}
+					Coming Soon{" "}
 					<span>/pages/index.js</span>
 				</p>
 			</header>
@@ -57,17 +57,10 @@ export default function InstructionsComponent() {
 					/>
 				</a>
 				<div className={styles.icons_container}>
+
 					<div>
 						<a
-							href="https://github.com/alchemyplatform/create-web3-dapp"
-							target={"_blank"}
-						>
-							Leave a star on Github
-						</a>
-					</div>
-					<div>
-						<a
-							href="https://twitter.com/AlchemyPlatform"
+							href="https://twitter.com/7sinztoken"
 							target={"_blank"}
 						>
 							Follow us on Twitter
