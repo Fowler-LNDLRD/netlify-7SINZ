@@ -6,7 +6,7 @@ export default function InstructionsComponent() {
 		<div className={styles.container}>
 			<header className={styles.header_container}>
 				<h1>
-					create<span>7 Sinz Toke</span>
+					<span>7 Sinz Toke</span>
 				</h1>
 				<p>
 					Coming Soon{" "}
